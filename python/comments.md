@@ -11,4 +11,4 @@ Reference: https://wiki.python.org/moin/TimeComplexity
 ## Coding style
 + A more pythonic way to loop through all characters of a string: `for character in string:`
 + `if string[i] in seen:` not `if string[i] in seen :`, there's no empty space between the last character `n` and the colon `:`
-+ `if unique2(string2) == False:` is usually written as `if not unique2(string2):
++ `if unique2(string2) == False:` is usually written as `if not unique2(string2):`
